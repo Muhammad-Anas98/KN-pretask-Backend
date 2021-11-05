@@ -1,0 +1,11 @@
+package com.ewallet.api.enums;
+
+public enum Currencies {
+	USDOLLAR_$,
+	CANADIANDOLLAR_CA$,
+	AUSTRALIANDOLLAR_A$,
+	STERLINGPOUND_£,
+	JAPANESEYEN_¥,
+	SWISSFRANC_CHF,
+	SWEDISHKORONA_SEK
+}
